@@ -1,0 +1,6 @@
+Django
+Djangorestframework
+drf-yasg
+django-cors-headers
+requests
+psycopg2
